@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raskolinckov
-- 👀 I’m interested in ... JavaScript HTML & CSS
-- 🌱 I’m currently learning ... JavaScript
+- 👀 I’m interested in ... JavaScript & software engineering
+- 🌱 I’m currently learning ... C language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
